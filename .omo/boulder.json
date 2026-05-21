@@ -1,0 +1,171 @@
+{
+  "active_plan": "C:\\Users\\tname\\Downloads\\20260521-workshop\\.omo\\plans\\dashboard.md",
+  "plan_name": "dashboard",
+  "started_at": "2026-05-21T06:31:36.903Z",
+  "session_ids": [
+    "ses_1b6df26e7ffeNVxCEIOgbJABpk"
+  ],
+  "worktree_path": null,
+  "session_origins": {
+    "ses_1b6df26e7ffeNVxCEIOgbJABpk": "direct"
+  },
+  "task_sessions": {
+    "todo:1": {
+      "task_key": "todo:1",
+      "task_label": "1",
+      "task_title": "frontend 전체 스캐폴딩",
+      "session_id": "ses_1b6c370a3ffek8sozN3auUMJUJ",
+      "agent": "Sisyphus-Junior",
+      "category": "quick",
+      "updated_at": "2026-05-21T07:00:00.044Z",
+      "started_at": "2026-05-21T06:36:07.378Z",
+      "status": "completed",
+      "ended_at": "2026-05-21T07:00:00.043Z",
+      "elapsed_ms": 1432665
+    },
+    "todo:3": {
+      "task_key": "todo:3",
+      "task_label": "3",
+      "task_title": "공유 타입 + Tailwind CSS 설정",
+      "session_id": "ses_1b6a9fcceffewV5axaKrSbiKjP",
+      "agent": "Sisyphus-Junior",
+      "category": "quick",
+      "updated_at": "2026-05-21T07:03:32.414Z",
+      "started_at": "2026-05-21T07:02:08.055Z",
+      "status": "completed",
+      "ended_at": "2026-05-21T07:03:32.414Z",
+      "elapsed_ms": 84359
+    },
+    "todo:5": {
+      "task_key": "todo:5",
+      "task_label": "5",
+      "task_title": "모든 API 라우터 + 서버 등록",
+      "session_id": "ses_1b6a6b049ffebcpkGNxz3tMI3X",
+      "agent": "Sisyphus-Junior",
+      "category": "unspecified-low",
+      "updated_at": "2026-05-21T07:07:19.231Z",
+      "started_at": "2026-05-21T07:05:38.481Z",
+      "status": "completed",
+      "ended_at": "2026-05-21T07:07:19.231Z",
+      "elapsed_ms": 100750
+    },
+    "todo:10": {
+      "task_key": "todo:10",
+      "task_label": "10",
+      "task_title": "App.tsx — 2×2 대시보드 레이아웃 + 최종 연결",
+      "session_id": "ses_1b6a2fb8affek2WM1Xt3eT3v3k",
+      "agent": "Sisyphus-Junior",
+      "category": "visual-engineering",
+      "updated_at": "2026-05-21T07:11:25.979Z",
+      "started_at": "2026-05-21T07:10:42.000Z",
+      "status": "completed",
+      "ended_at": "2026-05-21T07:11:25.979Z",
+      "elapsed_ms": 43979
+    },
+    "final-wave:f1": {
+      "task_key": "final-wave:f1",
+      "task_label": "F1",
+      "task_title": "**계획 준수 감사** — `oracle`",
+      "session_id": "ses_1b69c8f2affeQqsh3sikUGG2zZ",
+      "agent": "Sisyphus-Junior",
+      "category": "unspecified-high",
+      "started_at": "2026-05-21T07:13:53.954Z",
+      "status": "completed",
+      "updated_at": "2026-05-21T07:21:42.744Z",
+      "ended_at": "2026-05-21T07:21:42.744Z",
+      "elapsed_ms": 468790
+    }
+  },
+  "active_work_id": "dashboard-legacy",
+  "updated_at": "2026-05-21T07:22:17.780Z",
+  "schema_version": 2,
+  "works": {
+    "dashboard-legacy": {
+      "work_id": "dashboard-legacy",
+      "active_plan": "C:\\Users\\tname\\Downloads\\20260521-workshop\\.omo\\plans\\dashboard.md",
+      "plan_name": "dashboard",
+      "started_at": "2026-05-21T06:31:36.903Z",
+      "updated_at": "2026-05-21T07:22:17.780Z",
+      "session_ids": [
+        "ses_1b6df26e7ffeNVxCEIOgbJABpk"
+      ],
+      "session_origins": {
+        "ses_1b6df26e7ffeNVxCEIOgbJABpk": "direct"
+      },
+      "worktree_path": null,
+      "task_sessions": {
+        "todo:1": {
+          "task_key": "todo:1",
+          "task_label": "1",
+          "task_title": "frontend 전체 스캐폴딩",
+          "session_id": "ses_1b6c370a3ffek8sozN3auUMJUJ",
+          "agent": "Sisyphus-Junior",
+          "category": "quick",
+          "updated_at": "2026-05-21T07:00:00.044Z",
+          "started_at": "2026-05-21T06:36:07.378Z",
+          "status": "completed",
+          "ended_at": "2026-05-21T07:00:00.043Z",
+          "elapsed_ms": 1432665
+        },
+        "todo:3": {
+          "task_key": "todo:3",
+          "task_label": "3",
+          "task_title": "공유 타입 + Tailwind CSS 설정",
+          "session_id": "ses_1b6a9fcceffewV5axaKrSbiKjP",
+          "agent": "Sisyphus-Junior",
+          "category": "quick",
+          "updated_at": "2026-05-21T07:03:32.414Z",
+          "started_at": "2026-05-21T07:02:08.055Z",
+          "status": "completed",
+          "ended_at": "2026-05-21T07:03:32.414Z",
+          "elapsed_ms": 84359
+        },
+        "todo:5": {
+          "task_key": "todo:5",
+          "task_label": "5",
+          "task_title": "모든 API 라우터 + 서버 등록",
+          "session_id": "ses_1b6a6b049ffebcpkGNxz3tMI3X",
+          "agent": "Sisyphus-Junior",
+          "category": "unspecified-low",
+          "updated_at": "2026-05-21T07:07:19.231Z",
+          "started_at": "2026-05-21T07:05:38.481Z",
+          "status": "completed",
+          "ended_at": "2026-05-21T07:07:19.231Z",
+          "elapsed_ms": 100750
+        },
+        "todo:10": {
+          "task_key": "todo:10",
+          "task_label": "10",
+          "task_title": "App.tsx — 2×2 대시보드 레이아웃 + 최종 연결",
+          "session_id": "ses_1b6a2fb8affek2WM1Xt3eT3v3k",
+          "agent": "Sisyphus-Junior",
+          "category": "visual-engineering",
+          "updated_at": "2026-05-21T07:11:25.979Z",
+          "started_at": "2026-05-21T07:10:42.000Z",
+          "status": "completed",
+          "ended_at": "2026-05-21T07:11:25.979Z",
+          "elapsed_ms": 43979
+        },
+        "final-wave:f1": {
+          "task_key": "final-wave:f1",
+          "task_label": "F1",
+          "task_title": "**계획 준수 감사** — `oracle`",
+          "session_id": "ses_1b69c8f2affeQqsh3sikUGG2zZ",
+          "agent": "Sisyphus-Junior",
+          "category": "unspecified-high",
+          "started_at": "2026-05-21T07:13:53.954Z",
+          "status": "completed",
+          "updated_at": "2026-05-21T07:21:42.744Z",
+          "ended_at": "2026-05-21T07:21:42.744Z",
+          "elapsed_ms": 468790
+        }
+      },
+      "ended_at": "2026-05-21T07:22:17.780Z",
+      "elapsed_ms": 3040877,
+      "status": "completed"
+    }
+  },
+  "status": "completed",
+  "ended_at": "2026-05-21T07:22:17.780Z",
+  "elapsed_ms": 3040877
+}
